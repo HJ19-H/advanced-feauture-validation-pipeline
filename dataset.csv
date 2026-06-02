@@ -1,0 +1,6 @@
+id,username,signup_age,email_address,engagement_score,account_status
+1,user_alpha,24,alpha@scholarx.com,88.5,Active
+2,user_beta,-3,beta_scholarx.com,41.2,Active
+3,user_gamma,115,,99.9,Suspended
+4,user_delta,32,delta@scholarx.com,145.0,Unknown
+5,user_epsilon,abc,epsilon@scholarx.com,72.1,Active
